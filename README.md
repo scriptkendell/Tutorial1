@@ -5,7 +5,7 @@ Avaliable routes :
 /add
 /subtract
 /multiply 
-/devide 
+/divide
 
 Example of POST json:
 
